@@ -1,0 +1,23 @@
+D:\UserData\mario.borik\OneDrive - Siemens AG\ELTE_2020_félév\BeadandoFeladat2021\BeadandoFeladat2021\obj\Debug\BeadandoFeladat2021.csprojAssemblyReference.cache
+D:\UserData\mario.borik\OneDrive - Siemens AG\ELTE_2020_félév\BeadandoFeladat2021\BeadandoFeladat2021\obj\Debug\BeadandoFeladat2021.csproj.CoreCompileInputs.cache
+D:\UserData\mario.borik\OneDrive - Siemens AG\ELTE_2020_félév\BeadandoFeladat2021\BeadandoFeladat2021\bin\Debug\BeadandoFeladat2021.exe.config
+D:\UserData\mario.borik\OneDrive - Siemens AG\ELTE_2020_félév\BeadandoFeladat2021\BeadandoFeladat2021\bin\Debug\BeadandoFeladat2021.exe
+D:\UserData\mario.borik\OneDrive - Siemens AG\ELTE_2020_félév\BeadandoFeladat2021\BeadandoFeladat2021\bin\Debug\BeadandoFeladat2021.pdb
+D:\UserData\mario.borik\OneDrive - Siemens AG\ELTE_2020_félév\BeadandoFeladat2021\BeadandoFeladat2021\obj\Debug\BeadandoFeladat2021.exe
+D:\UserData\mario.borik\OneDrive - Siemens AG\ELTE_2020_félév\BeadandoFeladat2021\BeadandoFeladat2021\obj\Debug\BeadandoFeladat2021.pdb
+C:\Users\Felhasznalo\Downloads\suli\szoft.min.bizt\Beadando\BeadandoFeladat2021\bin\Debug\BeadandoFeladat2021.exe.config
+C:\Users\Felhasznalo\Downloads\suli\szoft.min.bizt\Beadando\BeadandoFeladat2021\bin\Debug\BeadandoFeladat2021.exe
+C:\Users\Felhasznalo\Downloads\suli\szoft.min.bizt\Beadando\BeadandoFeladat2021\bin\Debug\BeadandoFeladat2021.pdb
+C:\Users\Felhasznalo\Downloads\suli\szoft.min.bizt\Beadando\BeadandoFeladat2021\obj\Debug\BeadandoFeladat2021.csproj.AssemblyReference.cache
+C:\Users\Felhasznalo\Downloads\suli\szoft.min.bizt\Beadando\BeadandoFeladat2021\obj\Debug\BeadandoFeladat2021.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felhasznalo\Downloads\suli\szoft.min.bizt\Beadando\BeadandoFeladat2021\obj\Debug\BeadandoFeladat2021.csproj.CoreCompileInputs.cache
+C:\Users\Felhasznalo\Downloads\suli\szoft.min.bizt\Beadando\BeadandoFeladat2021\obj\Debug\BeadandoFeladat2021.exe
+C:\Users\Felhasznalo\Downloads\suli\szoft.min.bizt\Beadando\BeadandoFeladat2021\obj\Debug\BeadandoFeladat2021.pdb
+C:\Users\Felhasznalo\Downloads\suli\szoft.min.bizt\bead_gitrepo\itjebj_lauerattila\Beadando\BeadandoFeladat2021\bin\Debug\BeadandoFeladat2021.exe.config
+C:\Users\Felhasznalo\Downloads\suli\szoft.min.bizt\bead_gitrepo\itjebj_lauerattila\Beadando\BeadandoFeladat2021\bin\Debug\BeadandoFeladat2021.exe
+C:\Users\Felhasznalo\Downloads\suli\szoft.min.bizt\bead_gitrepo\itjebj_lauerattila\Beadando\BeadandoFeladat2021\bin\Debug\BeadandoFeladat2021.pdb
+C:\Users\Felhasznalo\Downloads\suli\szoft.min.bizt\bead_gitrepo\itjebj_lauerattila\Beadando\BeadandoFeladat2021\obj\Debug\BeadandoFeladat2021.csproj.AssemblyReference.cache
+C:\Users\Felhasznalo\Downloads\suli\szoft.min.bizt\bead_gitrepo\itjebj_lauerattila\Beadando\BeadandoFeladat2021\obj\Debug\BeadandoFeladat2021.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felhasznalo\Downloads\suli\szoft.min.bizt\bead_gitrepo\itjebj_lauerattila\Beadando\BeadandoFeladat2021\obj\Debug\BeadandoFeladat2021.csproj.CoreCompileInputs.cache
+C:\Users\Felhasznalo\Downloads\suli\szoft.min.bizt\bead_gitrepo\itjebj_lauerattila\Beadando\BeadandoFeladat2021\obj\Debug\BeadandoFeladat2021.exe
+C:\Users\Felhasznalo\Downloads\suli\szoft.min.bizt\bead_gitrepo\itjebj_lauerattila\Beadando\BeadandoFeladat2021\obj\Debug\BeadandoFeladat2021.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeadandoFeladat2021", "BeadandoFeladat2021\BeadandoFeladat2021.csproj", "{22CD9463-3EAF-47F0-AF2A-A0BE37A61907}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeadTest", "BeadTest\BeadTest.csproj", "{9EAFC002-19D7-436F-996B-F7C29497745C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22CD9463-3EAF-47F0-AF2A-A0BE37A61907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22CD9463-3EAF-47F0-AF2A-A0BE37A61907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22CD9463-3EAF-47F0-AF2A-A0BE37A61907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22CD9463-3EAF-47F0-AF2A-A0BE37A61907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EAFC002-19D7-436F-996B-F7C29497745C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EAFC002-19D7-436F-996B-F7C29497745C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EAFC002-19D7-436F-996B-F7C29497745C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EAFC002-19D7-436F-996B-F7C29497745C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A712A45-F1BC-49D6-BE4E-6609A03A0338}
+	EndGlobalSection
+EndGlobal
